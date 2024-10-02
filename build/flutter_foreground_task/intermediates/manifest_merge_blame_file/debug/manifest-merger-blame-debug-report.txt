@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pravera.flutter_foreground_task" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+9-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:4:5-77
+9-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:4:22-74
+10    <uses-permission android:name="android.permission.WAKE_LOCK" />
+10-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:5:5-68
+10-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:5:22-65
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:6:5-81
+11-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+12-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:7:5-77
+12-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:7:22-74
+13
+14    <application>
+14-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:9:5-23:19
+15        <receiver
+15-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:10:9-18:20
+16            android:name="com.pravera.flutter_foreground_task.service.RebootReceiver"
+16-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:11:13-51
+17            android:enabled="true"
+17-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:12:13-35
+18            android:exported="true" >
+18-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:13:13-36
+19            <intent-filter>
+19-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:14:13-17:29
+20                <action android:name="android.intent.action.BOOT_COMPLETED" />
+20-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:15:17-79
+20-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:15:25-76
+21                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+21-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:16:17-84
+21-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:16:25-81
+22            </intent-filter>
+23        </receiver>
+24        <receiver
+24-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:19:9-22:40
+25            android:name="com.pravera.flutter_foreground_task.service.RestartReceiver"
+25-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:20:13-52
+26            android:enabled="true"
+26-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:21:13-35
+27            android:exported="false" />
+27-->/home/user/.pub-cache/hosted/pub.dev/flutter_foreground_task-8.10.2/android/src/main/AndroidManifest.xml:22:13-37
+28    </application>
+29
+30</manifest>

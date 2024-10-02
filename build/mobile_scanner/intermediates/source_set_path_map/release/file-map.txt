@@ -1,0 +1,17 @@
+dev.steenbakker.mobile_scanner-jetified-camera-lifecycle-1.3.3-0 /home/user/.gradle/caches/transforms-3/5c12b6a28ebd0c2df6c6f8f658f50ffa/transformed/jetified-camera-lifecycle-1.3.3/res
+dev.steenbakker.mobile_scanner-jetified-camera-core-1.3.3-1 /home/user/.gradle/caches/transforms-3/5c71b8ddba8b1e52e4e45aa1ae7d713d/transformed/jetified-camera-core-1.3.3/res
+dev.steenbakker.mobile_scanner-jetified-play-services-base-18.1.0-2 /home/user/.gradle/caches/transforms-3/629243d20b62e81827fbb56aec185837/transformed/jetified-play-services-base-18.1.0/res
+dev.steenbakker.mobile_scanner-jetified-window-java-1.0.0-beta04-3 /home/user/.gradle/caches/transforms-3/73047d137cd9e09866f36046f40c6303/transformed/jetified-window-java-1.0.0-beta04/res
+dev.steenbakker.mobile_scanner-jetified-camera-camera2-1.3.3-4 /home/user/.gradle/caches/transforms-3/9af5167f3775856f8782cfda2c5f80b7/transformed/jetified-camera-camera2-1.3.3/res
+dev.steenbakker.mobile_scanner-core-1.6.0-5 /home/user/.gradle/caches/transforms-3/d11d370d253aac2c0c093b1e517c7f6b/transformed/core-1.6.0/res
+dev.steenbakker.mobile_scanner-jetified-annotation-experimental-1.1.0-6 /home/user/.gradle/caches/transforms-3/d1f2e2e36d0b2c9d1a889de1d7139848/transformed/jetified-annotation-experimental-1.1.0/res
+dev.steenbakker.mobile_scanner-jetified-play-services-basement-18.1.0-7 /home/user/.gradle/caches/transforms-3/dc1d8cc607bc6620c6694e0753c974e9/transformed/jetified-play-services-basement-18.1.0/res
+dev.steenbakker.mobile_scanner-jetified-window-1.0.0-beta04-8 /home/user/.gradle/caches/transforms-3/e2e406c8398b3a427d9168058cfa8b1c/transformed/jetified-window-1.0.0-beta04/res
+dev.steenbakker.mobile_scanner-main-9 /home/user/.pub-cache/hosted/pub.dev/mobile_scanner-5.2.3/android/src/main/res
+dev.steenbakker.mobile_scanner-release-10 /home/user/.pub-cache/hosted/pub.dev/mobile_scanner-5.2.3/android/src/release/res
+dev.steenbakker.mobile_scanner-pngs-11 /home/user/myapp/build/mobile_scanner/generated/res/pngs/release
+dev.steenbakker.mobile_scanner-resValues-12 /home/user/myapp/build/mobile_scanner/generated/res/resValues/release
+dev.steenbakker.mobile_scanner-rs-13 /home/user/myapp/build/mobile_scanner/generated/res/rs/release
+dev.steenbakker.mobile_scanner-mergeReleaseResources-14 /home/user/myapp/build/mobile_scanner/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.steenbakker.mobile_scanner-mergeReleaseResources-15 /home/user/myapp/build/mobile_scanner/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.steenbakker.mobile_scanner-merged_res-16 /home/user/myapp/build/mobile_scanner/intermediates/merged_res/release

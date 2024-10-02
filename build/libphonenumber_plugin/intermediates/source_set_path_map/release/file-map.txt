@@ -1,0 +1,12 @@
+com.example.libphonenumber_plugin-jetified-window-java-1.0.0-beta04-0 /home/user/.gradle/caches/transforms-3/73047d137cd9e09866f36046f40c6303/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.libphonenumber_plugin-core-1.6.0-1 /home/user/.gradle/caches/transforms-3/d11d370d253aac2c0c093b1e517c7f6b/transformed/core-1.6.0/res
+com.example.libphonenumber_plugin-jetified-annotation-experimental-1.1.0-2 /home/user/.gradle/caches/transforms-3/d1f2e2e36d0b2c9d1a889de1d7139848/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.libphonenumber_plugin-jetified-window-1.0.0-beta04-3 /home/user/.gradle/caches/transforms-3/e2e406c8398b3a427d9168058cfa8b1c/transformed/jetified-window-1.0.0-beta04/res
+com.example.libphonenumber_plugin-main-4 /home/user/.pub-cache/hosted/pub.dev/libphonenumber_plugin-0.3.3/android/src/main/res
+com.example.libphonenumber_plugin-release-5 /home/user/.pub-cache/hosted/pub.dev/libphonenumber_plugin-0.3.3/android/src/release/res
+com.example.libphonenumber_plugin-pngs-6 /home/user/myapp/build/libphonenumber_plugin/generated/res/pngs/release
+com.example.libphonenumber_plugin-resValues-7 /home/user/myapp/build/libphonenumber_plugin/generated/res/resValues/release
+com.example.libphonenumber_plugin-rs-8 /home/user/myapp/build/libphonenumber_plugin/generated/res/rs/release
+com.example.libphonenumber_plugin-mergeReleaseResources-9 /home/user/myapp/build/libphonenumber_plugin/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.libphonenumber_plugin-mergeReleaseResources-10 /home/user/myapp/build/libphonenumber_plugin/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.libphonenumber_plugin-merged_res-11 /home/user/myapp/build/libphonenumber_plugin/intermediates/merged_res/release

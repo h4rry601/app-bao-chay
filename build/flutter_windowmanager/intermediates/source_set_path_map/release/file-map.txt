@@ -1,0 +1,12 @@
+io.adaptant.labs.flutter_windowmanager-jetified-window-java-1.0.0-beta04-0 /home/user/.gradle/caches/transforms-3/73047d137cd9e09866f36046f40c6303/transformed/jetified-window-java-1.0.0-beta04/res
+io.adaptant.labs.flutter_windowmanager-core-1.6.0-1 /home/user/.gradle/caches/transforms-3/d11d370d253aac2c0c093b1e517c7f6b/transformed/core-1.6.0/res
+io.adaptant.labs.flutter_windowmanager-jetified-annotation-experimental-1.1.0-2 /home/user/.gradle/caches/transforms-3/d1f2e2e36d0b2c9d1a889de1d7139848/transformed/jetified-annotation-experimental-1.1.0/res
+io.adaptant.labs.flutter_windowmanager-jetified-window-1.0.0-beta04-3 /home/user/.gradle/caches/transforms-3/e2e406c8398b3a427d9168058cfa8b1c/transformed/jetified-window-1.0.0-beta04/res
+io.adaptant.labs.flutter_windowmanager-main-4 /home/user/.pub-cache/hosted/pub.dev/flutter_windowmanager-0.2.0/android/src/main/res
+io.adaptant.labs.flutter_windowmanager-release-5 /home/user/.pub-cache/hosted/pub.dev/flutter_windowmanager-0.2.0/android/src/release/res
+io.adaptant.labs.flutter_windowmanager-pngs-6 /home/user/myapp/build/flutter_windowmanager/generated/res/pngs/release
+io.adaptant.labs.flutter_windowmanager-resValues-7 /home/user/myapp/build/flutter_windowmanager/generated/res/resValues/release
+io.adaptant.labs.flutter_windowmanager-rs-8 /home/user/myapp/build/flutter_windowmanager/generated/res/rs/release
+io.adaptant.labs.flutter_windowmanager-mergeReleaseResources-9 /home/user/myapp/build/flutter_windowmanager/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.adaptant.labs.flutter_windowmanager-mergeReleaseResources-10 /home/user/myapp/build/flutter_windowmanager/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.adaptant.labs.flutter_windowmanager-merged_res-11 /home/user/myapp/build/flutter_windowmanager/intermediates/merged_res/release

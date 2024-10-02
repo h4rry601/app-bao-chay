@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.pravera.flutter_foreground_task-merged_res-18:/drawable-v21/notification_action_background.xml",
+        "source": "com.pravera.flutter_foreground_task-core-1.13.0-7:/drawable-v21/notification_action_background.xml"
+    }
+]

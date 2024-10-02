@@ -1,0 +1,13 @@
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-java-1.0.0-beta04-0 /home/user/.gradle/caches/transforms-3/73047d137cd9e09866f36046f40c6303/transformed/jetified-window-java-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-core-1.6.0-1 /home/user/.gradle/caches/transforms-3/d11d370d253aac2c0c093b1e517c7f6b/transformed/core-1.6.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-annotation-experimental-1.1.0-2 /home/user/.gradle/caches/transforms-3/d1f2e2e36d0b2c9d1a889de1d7139848/transformed/jetified-annotation-experimental-1.1.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-1.0.0-beta04-3 /home/user/.gradle/caches/transforms-3/e2e406c8398b3a427d9168058cfa8b1c/transformed/jetified-window-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-security-crypto-1.1.0-alpha06-4 /home/user/.gradle/caches/transforms-3/fcc785d0c7e99fadc58a116984ed7350/transformed/jetified-security-crypto-1.1.0-alpha06/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-main-5 /home/user/.pub-cache/hosted/pub.dev/flutter_secure_storage-9.2.2/android/src/main/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-release-6 /home/user/.pub-cache/hosted/pub.dev/flutter_secure_storage-9.2.2/android/src/release/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-pngs-7 /home/user/myapp/build/flutter_secure_storage/generated/res/pngs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-resValues-8 /home/user/myapp/build/flutter_secure_storage/generated/res/resValues/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-rs-9 /home/user/myapp/build/flutter_secure_storage/generated/res/rs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-10 /home/user/myapp/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-11 /home/user/myapp/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-12 /home/user/myapp/build/flutter_secure_storage/intermediates/merged_res/release
