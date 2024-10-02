@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554407931399",
+    "project_id": "app-bao-chay-709bd",
+    "storage_bucket": "app-bao-chay-709bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554407931399:android:25bfe01ea6734a0c7344a2",
+        "android_client_info": {
+          "package_name": "com.emic.gsafesa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBol2OatSDePIry-78C_tS2VSh_RZO5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
