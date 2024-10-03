@@ -131,7 +131,11 @@ class SetupDeviceScreenState extends State<SetupDeviceScreen> {
         Expanded(
           child: ElevatedButton(
             onPressed: () {
-              // Xử lý logic xác nhận ở đây
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                    builder: (context) => const ConnectDeviceScreen()),
+              );
             },
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.blue.shade800,
