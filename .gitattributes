@@ -1,0 +1,17 @@
+# Ignore platform-specific generated code
+ios/** linguist-generated=true
+android/** linguist-generated=true
+macos/** linguist-generated=true
+windows/** linguist-generated=true
+linux/** linguist-generated=true
+web/** linguist-generated=true
+
+# Mark Dart as the primary language
+*.dart linguist-detectable=true
+*.dart linguist-language=Dart
+
+# Ignore documentation
+*.md linguist-documentation=true
+
+# Ignore build outputs
+build/** linguist-generated=true
